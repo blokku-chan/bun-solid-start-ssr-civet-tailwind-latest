@@ -14,7 +14,7 @@ export default defineConfig({
     },
     solid({
       extensions: ['.civet'],
-      rootEntry: '~/root.civet',
+      rootEntry: '/src/root.civet',
     }),
   ],
 })
